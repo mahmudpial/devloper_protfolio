@@ -15,8 +15,9 @@ section {
     width: 50%;
 }
 .half-width img{
+    width: 70%;
   
-    size: 20px;
+   
 }
 p{
     margin-bottom: 20px;
@@ -27,7 +28,7 @@ p{
 #banner-picture1{
     max-width: 570px;
     max-height: 570px;
-    padding-left: 45px;
+    
 }
 .link-button {
     text-decoration:none ;
@@ -38,4 +39,14 @@ p{
     
     
 
+}
+#banner-picture1{
+    margin-left: 70px;
+}
+#banner_blog1{
+    margin-left: 40px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
