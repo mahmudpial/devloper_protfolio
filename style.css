@@ -11,7 +11,11 @@ section.top-banner {
     display: flex;
     justify-content: space-evenly;
 }
-section.dream_big{
+section.second-banner{
+    display: flex;
+    justify-content: space-evenly;
+}
+div.flexible-container{
     display: flex;
     justify-content: space-evenly;
 }
@@ -22,6 +26,11 @@ section.dream_big{
     width: 70%;
   
    
+}
+
+
+.Right-text{
+    width: 80%;
 }
 p{
     margin-bottom: 20px;
@@ -61,8 +70,14 @@ p{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-.dream_big{
+.second-banner{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.orange-color{
+    color: orange;
+}
+#experiences0{
+    margin-left: 30px;
 }
